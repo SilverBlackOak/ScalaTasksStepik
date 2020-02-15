@@ -1,4 +1,4 @@
-gem install github-linguist
+.rb linguist-language=Scala
 
 import scala.math.BigDecimal.RoundingMode.HALF_UP
 
